@@ -13,6 +13,7 @@ MNOPQR
 STUVWX
 YZ1234
 567890
+qwe343
 ```
 
 Please write a program which scripts the path of the cursor on the keyboard. The program should: 
