@@ -33,7 +33,7 @@ class Keyboard:
 
     def __init__(self, keyboard=[], step=6):
         """
-        Initializes keyboard class
+        Initialize keyboard class
         :param keyboard: Optional list param to initializes the keyboard letters available in the correct order
         :param step: Optional list param to set step/breakpoints/max length of line in a keyboard. Default 6
         """
